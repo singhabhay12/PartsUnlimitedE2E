@@ -5,7 +5,7 @@ namespace PartsUnlimited.Models
 {
     public class Category
     {
-        //My first changes
+        //My first changes in git
         public int CategoryId { get; set; }
 
         [Required]
